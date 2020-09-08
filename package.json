@@ -16,8 +16,14 @@
     "http-errors": "~1.6.3",
     "morgan": "~1.9.1",
     "mysql2": "^2.1.0",
+<<<<<<< HEAD
     "passport": "^0.4.1",
     "sequelize": "^6.3.4"
+=======
+    "sequelize": "^6.3.4",
+    "swagger-jsdoc": "^4.0.0",
+    "swagger-ui-express": "^4.1.4"
+>>>>>>> b43173f80dc6bfd4a28cfcd26af0b091c7f9ebdd
   },
   "devDependencies": {
     "nodemon": "^2.0.4"
